@@ -1,65 +1,75 @@
-#Technologies
+# Techs
 
-##VISUAL STANDARDS
+## Visual Standars
+
 - Material Design
 
-##HTML  
+## HTML  
   
-##CSS
+## CSS
 
-###FRAMEWORKS
-   - Bootstrap
-   - Materialized
+### FRAMEWORKS
 
-###PREPROCESORS
+- Bootstrap
+- Materialized
 
-  - Saas
-  - Less
-  - Stylus
+### PREPROCESORS
 
-###TASK RUNNER
+- Saas
+- Less
+- Stylus
 
-  -  Gulp
-  - Grunt
+### TASK RUNNER
+
+- Gulp
+- Grunt
   
-###BUNDLERS
-  - Webpack
-  - Browserify
-##JS
-  ###FRAMEWORKS
+### BUNDLERS
 
-	- VueJS
-	- Angular
+- Webpack
+- Browserify
 
-  ###LIBRARIES
+## JS
 
-  - JQuery
-  - React
+### FRAMEWORKS
 
-  ###PACKAGE MANAGERS
-	- NPM
-	- YARN
-##PHP
-   ###PACKAGE MANAGERS
+- VueJS
+- Angular
 
-	- Composer
+### LIBRARIES
 
-   ###FRAMEWORKS
+- JQuery
+- React
 
-	- Codeigniter
-	- Laravel
-	- Slim
+### PACKAGE MANAGERS
+
+- NPM
+- YARN
+
+## PHP
+
+### PACKAGE MANAGERS
+
+- Composer
+
+### FRAMEWORKS
+
+- Codeigniter
+- Laravel
+- Slim
   
-###TESTING
+### TESTING
 
-  - PHP Unit
-  - Codeception
+- PHP Unit
+- Codeception
 
-##WEB PLATFORMS
-  - FortRabbit
-  - Heroku
-  - AWS
+## WEB PLATFORMS
 
-##API DOCS
-  - Swagger
-  - ApiBlueprint
+- FortRabbit
+- Heroku
+- AWS
+
+## API DOCS
+
+- Swagger
+- ApiBlueprint
