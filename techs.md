@@ -12,43 +12,54 @@
    - Materialized
 
 ###PREPROCESORS
-	- Saas
+
+  - Saas
   - Less
   - Stylus
 
 ###TASK RUNNER
-	- Gulp
+
+  -  Gulp
   - Grunt
   
 ###BUNDLERS
   - Webpack
   - Browserify
 ##JS
-	###FRAMEWORKS
+  ###FRAMEWORKS
+
 	- VueJS
 	- Angular
 
-	###LIBRARIES
-	- JQuery
+  ###LIBRARIES
+
+  - JQuery
   - React
 
-	###PACKAGE MANAGERS
+  ###PACKAGE MANAGERS
 	- NPM
 	- YARN
 ##PHP
-	###PACKAGE MANAGERS
+   ###PACKAGE MANAGERS
+
 	- Composer
 
-	###FRAMEWORKS
+   ###FRAMEWORKS
+
 	- Codeigniter
 	- Laravel
 	- Slim
   
-  ###TESTING
+###TESTING
+
   - PHP Unit
   - Codeception
 
 ##WEB PLATFORMS
+  - FortRabbit
   - Heroku
   - AWS
 
+##API DOCS
+  - Swagger
+  - ApiBlueprint
