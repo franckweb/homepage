@@ -73,3 +73,13 @@
 
 - Swagger
 - ApiBlueprint
+
+## Local Env
+
+- Oh Zsh
+- Tmux
+
+## Virtual Dev Env
+
+- Vagrant
+- Docker
