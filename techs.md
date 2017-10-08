@@ -78,6 +78,7 @@
 
 - Oh Zsh
 - Tmux
+- Tmuxinator
 
 ## Virtual Dev Env
 
