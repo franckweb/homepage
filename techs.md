@@ -84,3 +84,13 @@
 
 - Vagrant
 - Docker
+
+## Database
+
+- Mysql
+- SQLite
+- Mongo
+
+## In Memory Data Store
+
+- Redis
