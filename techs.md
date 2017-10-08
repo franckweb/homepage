@@ -29,7 +29,12 @@
 - Less
 - Stylus
 
-## JS
+## ECMAScript
+
+### Languages
+
+- Javascript
+- Typescript
 
 ### FRAMEWORKS
 
@@ -62,6 +67,20 @@
 
 - PHP Unit
 - Codeception
+- Browser Inspector Dev Tools
+
+## Programming Standards
+
+- PSR(s)
+- SOLID
+- OOP
+  - Namespacing
+  - Inheritance
+  - Composition
+  - Polymorphism
+  - Encapsulation
+  - Interfaces
+- MVC
 
 ## WEB PLATFORMS
 
@@ -74,6 +93,17 @@
 - Swagger
 - ApiBlueprint
 
+## Web Services
+
+### HTTP Servers
+
+- Apache
+- Nginx
+
+### Protocols
+
+- REST
+
 ## Local Env
 
 - Oh Zsh
@@ -82,11 +112,12 @@
 
 ## Virtual Dev Env
 
-- Vagrant
+- Vagrant / Homestead
 - Docker
 
 ## Database
 
+- SQL
 - Mysql
 - SQLite
 - Mongo
@@ -94,3 +125,25 @@
 ## In Memory Data Store
 
 - Redis
+
+## Version Control
+
+- Git
+
+## Command line
+
+- Linux CLI
+- Win CLI
+
+## Repositories
+
+- Github
+- Bitbucket
+
+## IDE
+
+- PhpStorm
+- Sublime
+- Nano
+- Vim
+
