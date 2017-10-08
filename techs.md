@@ -144,6 +144,7 @@
 
 - PhpStorm
 - Sublime
+- Eclipse
 - Nano
 - Vim
 
