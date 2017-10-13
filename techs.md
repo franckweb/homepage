@@ -133,6 +133,8 @@
 ## Command line
 
 - Linux CLI
+- Tmux
+- iTerm2
 - Win CLI
 
 ## Repositories
