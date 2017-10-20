@@ -62,13 +62,6 @@
 - Codeigniter
 - Laravel
 - Slim
-  
-### TESTING
-
-- PHP Unit
-- Codeception
-- Selenium
-- Browser Inspector Dev Tools
 
 ## Programming Standards
 
@@ -150,3 +143,10 @@
 - Eclipse
 - Nano
 - Vim
+
+### TESTING
+
+- PHP Unit
+- Codeception
+- Selenium
+- Browser Inspector Dev Tools
