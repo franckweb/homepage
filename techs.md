@@ -67,6 +67,7 @@
 
 - PHP Unit
 - Codeception
+- Selenium
 - Browser Inspector Dev Tools
 
 ## Programming Standards
@@ -149,4 +150,3 @@
 - Eclipse
 - Nano
 - Vim
-
