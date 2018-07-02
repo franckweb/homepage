@@ -51,6 +51,21 @@
 - NPM
 - YARN
 
+## PYTHON
+
+### FRAMEWORKS
+
+- Flask
+- Django
+
+### PACKAGE MANAGERS
+
+- Pip to manage PyPI (Python Package Index)
+
+### Tools
+
+- Virtualenv (Create isolated python environments)
+
 ## PHP
 
 ### PACKAGE MANAGERS
@@ -82,10 +97,16 @@
 - Heroku
 - AWS
 
-## API DOCS
+## API
+
+### API DOCS
 
 - Swagger
 - ApiBlueprint
+
+### Standards
+
+- JSON API http://jsonapi.org/
 
 ## Web Services
 
