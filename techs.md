@@ -40,6 +40,7 @@
 
 - VueJS
 - Angular
+- AlpineJS
 
 ### LIBRARIES
 
@@ -74,13 +75,13 @@
 
 ### FRAMEWORKS
 
-- Codeigniter
+- Symfony
 - Laravel
 - Slim
 
 ## Programming Standards
 
-- PSR(s)
+- PSRs
 - SOLID
 - OOP
   - Namespacing
@@ -91,10 +92,17 @@
   - Interfaces
 - MVC
 
-## WEB PLATFORMS
+## CLOUD SERVICES
 
 - FortRabbit
+
+## PAAS
+
 - Heroku
+- Dokku
+
+## CLOUD
+
 - AWS
 
 ## API
@@ -150,7 +158,6 @@
 - Linux CLI
 - Tmux
 - iTerm2
-- Win CLI
 
 ## Repositories
 
@@ -161,8 +168,7 @@
 
 - PhpStorm
 - Sublime
-- Eclipse
-- Nano
+- VSCode
 - Vim
 
 ### TESTING
